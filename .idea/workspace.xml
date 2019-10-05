@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="755851c0-ba24-40d3-9c1f-5a906dfa5efc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/Patrick_SpringFirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/config/ConfigurationClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/model/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/model/BeanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/model/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/repository/WarehouseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/BillingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/DeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/SalesService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/WarehouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Patrick_SpringFirstProject/src/main/java/be/wholesomewhale/services/implementations/WarehouseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/implementations/CleaningRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/HedgeTrimmerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/LoggerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DriesJoncheere_Test_Agenda/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frietkotempty/Fryshack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/frietkotempty/Fryshack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/apps/DomesticApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/DomesticApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/apps/HouseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/HouseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/apps/HouseAppThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/HouseAppThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/apps/HouseAppTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/HouseAppTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/apps/OutHouseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/apps/OutHouseApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/implementations/CleaningServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/implementations/CleaningServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/implementations/DomesticServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/implementations/DomesticServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/implementations/GardeningServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/implementations/GardeningServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/interfaces/CleaningService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/CleaningService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/interfaces/DomesticService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/DomesticService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/services/interfaces/GardeningService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/services/GardeningService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/HouseContextConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/Broom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/Broom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/DisposableDuster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/DisposableDuster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/DisposableDusterProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/DisposableDusterProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/LawnMower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/LawnMower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/Sponge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/Sponge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/implementations/Vacuum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/implementations/Vacuum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/interfaces/CleaningTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/CleaningTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/tools/interfaces/GardeningTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringFirstProject/src/main/java/be/wholesomewhale/tools/GardeningTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/META-INF/SpringFirstProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/apps/DomesticApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/apps/HouseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/apps/HouseAppThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/apps/HouseAppTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/apps/OutHouseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/contextConfigs/HouseContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/implementations/CleaningServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/implementations/DomesticServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/implementations/GardeningServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/interfaces/CleaningService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/interfaces/DomesticService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/services/interfaces/GardeningService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/Broom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/DisposableDuster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/DisposableDusterProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/LawnMower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/Sponge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/implementations/Vacuum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/interfaces/CleaningTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringFirstProject/target/classes/tools/interfaces/GardeningTool.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RmUtahmzN0YN2D8lcOL0hV4Zux" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552399034467" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="frietkotempty.main.FryMain" />
+      <module name="DriesJoncheere_Test_FryShack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="frietkotempty.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FryMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="755851c0-ba24-40d3-9c1f-5a906dfa5efc" name="Default Changelist" comment="" />
+      <created>1552293339450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552293339450</updated>
+      <workItem from="1570271981806" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
